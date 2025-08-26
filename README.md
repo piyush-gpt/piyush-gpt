@@ -9,10 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/piyush-gupta-1010/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="[https://www.linkedin.com/in/piyush-gupta-1010/](https://www.linkedin.com/in/piyush-gupta-6a4134255/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/piyush-gpt"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:piyushgpt10102004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://leetcode.com/u/piyush-gpt/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
 </p>
 
 ---
@@ -22,7 +21,6 @@
 - **Education**: B.Tech in Computer Science & Engineering, Maharaja Agrasen Institute of Technology (2022-2026)
 - **Interests**: AI Agents, LLMs, Full-Stack Development, DevOps, and Competitive Programming
 - **Current Role**: Software Engineer Intern at SureBright (YC S24), building intelligent pipelines for product metadata extraction using LLMs and AI agents
-- **Fun Fact**: Solved 500+ DSA problems on LeetCode (Rating: 1800+) – always up for a coding challenge!
 
 ---
 
