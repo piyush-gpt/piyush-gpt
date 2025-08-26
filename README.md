@@ -94,21 +94,6 @@ Check out my [full repositories](https://github.com/piyush-gpt?tab=repositories)
   Optimized e-Learning platform, reducing load times by 30% and boosting engagement by 20%.
 
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyush-gpt&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-gpt&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-gpt&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Get in Touch
 
 - Email: piyushgpt10102004@gmail.com
