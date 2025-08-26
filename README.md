@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-- **Education**: B.Tech in Computer Science & Engineering, Maharaja Agrasen Institute of Technology (2022-2026)
+- **Education**: B.Tech in Computer Science & Engineering, (2022-2026)
 - **Interests**: AI Agents, LLMs, Full-Stack Development, DevOps, and Competitive Programming
 - **Current Role**: Software Engineer Intern at SureBright (YC S24), building intelligent pipelines for product metadata extraction using LLMs and AI agents
 
