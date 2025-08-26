@@ -93,13 +93,6 @@ Check out my [full repositories](https://github.com/piyush-gpt?tab=repositories)
 - **Full Stack Web Development Intern @ AdroidConnectz** (Oct 2024 – Dec 2024)  
   Optimized e-Learning platform, reducing load times by 30% and boosting engagement by 20%.
 
----
-
-## 🏆 Achievements & Competitions
-
-- **LeetCode**: 480+ problems solved, Contest Rating 1752 (Top 9%) – [Profile](https://leetcode.com/u/piyush-gpt/)
-- **Open Source**: Contributor to GirlScript Summer of Code 2024 & Hacktoberfest 2023 (5+ PRs merged)
-- **Hackathons**: Finalist in Cyber Challenge Delhi Police 2024, HackwithMAIT 5.0, InnovateNSUT, HackOn with Amazon, and Smart India Hackathon 2024
 
 ---
 
@@ -119,12 +112,8 @@ Check out my [full repositories](https://github.com/piyush-gpt?tab=repositories)
 ## 📫 Get in Touch
 
 - Email: piyushgpt10102004@gmail.com
-- Phone: +91 8447292422
-- LinkedIn: [piyush-gupta-1010](https://www.linkedin.com/in/piyush-gupta-1010/)
+- LinkedIn: [piyush-gupta-6a4134255](https://www.linkedin.com/in/piyush-gupta-6a4134255/)
 - GitHub: [piyush-gpt](https://github.com/piyush-gpt)
 
 Feel free to reach out for collaborations, opportunities, or just to chat about AI and tech!
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=piyush-gpt.piyush-gpt" alt="Visitors">
-</p>
