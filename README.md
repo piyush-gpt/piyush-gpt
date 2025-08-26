@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Passionate about crafting intelligent, scalable applications with Python, React, and Machine Learning. Currently pursuing B.Tech in Computer Science at Maharaja Agrasen Institute of Technology, Delhi (CGPA: 8.76). I love turning complex problems into elegant solutions through AI agents, automation, and cloud-native tech.
+  Passionate about crafting intelligent, scalable applications with Python, React, and Machine Learning. Currently pursuing B.Tech in Computer Science. I love turning complex problems into elegant solutions through AI agents, automation, and cloud-native tech.
 </p>
 
 <p align="center">
